@@ -1,4 +1,4 @@
-##From NAND to Tetris  
+## **From NAND to Tetris**  
 This is a repository which holds projects from the Nand2Tetris course.  
 This is a free internet course, recommended to every person who wants to gain deep understanding of how computer systems work.  
 Course website: https://www.nand2tetris.org/  
